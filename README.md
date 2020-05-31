@@ -1,7 +1,7 @@
 # Bullying-Awarness-Video
 
 We have put this is an awareness video of what academic bullying can look like.
-![](my_video.mov)
+![](AB_video_v2.mp4)
 
 ## License
 
