@@ -2,9 +2,7 @@
 
 We have put  an awareness video of what academic bullying can look like, please share!
 
-<a href="http://www.https://www.youtube.com/watch?v=aLUo3QjSmQ8&feature=youtu.be
-" target="_blank"><img src="http://img.youtube.com/watch?v=aLUo3QjSmQ8&feature=youtu.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/https://youtu.be/aLUo3QjSmQ8/0.jpg)](http://www.youtube.com/watch?https://youtu.be/aLUo3QjSmQ8)
 
 
 ## License
