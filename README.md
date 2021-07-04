@@ -1,4 +1,4 @@
-# Bullying-Awarness-Video
+# Bullying-Awareness-Video
 
 We have put  an awareness video of what academic bullying can look like, please share!
 
